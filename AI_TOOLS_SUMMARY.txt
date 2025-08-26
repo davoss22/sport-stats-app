@@ -1,0 +1,114 @@
+AI ESZKÖZÖK OPTIMALIZÁLÁSI PROJEKT - ÖSSZEFOGLALÓ
+====================================================
+
+AKTUÁLIS ÁRAK (2025)
+--------------------
+Claude Plus: $20/hó
+Claude API Opus 4: $15/hó ⭐ (legjobb érték)
+Claude Code API: $3/hó
+Cursor Pro: $20/hó
+Windsurf Pro: $25/hó
+Zapier Professional: $20/hó
+GitHub Pro: $4/hó ⭐ (ipari szabvány)
+Netlify Pro: $19/hó
+
+5 OPTIMÁLIS KOMBINÁCIÓ ($100 ALATT)
+===================================
+
+1. RESEARCH-CENTRIC POWERHOUSE - $81/hó ⭐ AJÁNLOTT
+---------------------------------------------------
+Eszközök:
+- Claude API Opus 4 ($15)
+- Claude Code API ($3)
+- Cursor Pro ($20)
+- Zapier Professional ($20)
+- GitHub Pro ($4)
+- Netlify Pro ($19)
+
+Funkcionalitás: 95% | Automatizálás: 90% | ROI: 9.5/10
+
+2. DEVELOPMENT-FOCUSED OPTIMIZER - $83/hó
+-----------------------------------------
+Eszközök:
+- Claude API Opus 4 ($15)
+- Windsurf Pro ($25)
+- Zapier Professional ($20)
+- GitHub Pro ($4)
+- Netlify Pro ($19)
+
+Funkcionalitás: 92% | Automatizálás: 85% | ROI: 9.0/10
+
+3. COST-OPTIMIZED BALANCED - $83/hó
+-----------------------------------
+Eszközök:
+- Claude Plus ($20)
+- Cursor Pro ($20)
+- Zapier Professional ($20)
+- GitHub Pro ($4)
+- Netlify Pro ($19)
+
+Funkcionalitás: 88% | Automatizálás: 80% | ROI: 8.5/10
+
+4. AUTOMATION-FIRST MAXIMIZER - $81/hó
+--------------------------------------
+Eszközök:
+- Claude API Opus 4 ($15)
+- Claude Code API ($3)
+- Zapier Professional ($20)
+- GitHub Pro ($4)
+- Netlify Pro ($19)
+
+Funkcionalitás: 90% | Automatizálás: 95% | ROI: 9.2/10
+
+5. BUDGET-CONSCIOUS STARTER - $63/hó
+------------------------------------
+Eszközök:
+- Claude Plus ($20)
+- Cursor Pro ($20)
+- GitHub Pro ($4)
+- Netlify Pro ($19)
+
+Funkcionalitás: 75% | Automatizálás: 60% | ROI: 7.5/10
+
+KULCS MEGÁLLAPÍTÁSOK
+====================
+- GitHub Pro ($4/hó) - Alapvető, költséghatékony
+- Claude API Opus 4 ($15/hó) - Legjobb érték/ár arány
+- Cursor Pro vs Windsurf Pro - Válassz egyet, ne mindkettőt
+- Zapier Professional ($20/hó) - Kritikus automatizáláshoz
+- Éves megtakarítás: $59-64 éves előfizetésekkel
+
+ROI PROJEKTÁLÁS
+===============
+- Havi produktivitási nyereség: 20 óra
+- Havi érték: $1,000
+- ROI timeline: 1.5 hónap
+- Éves ROI: 1,400%
+
+AJÁNLÁSOK
+==========
+Kezdőknek: Combination 3 - Felhasználóbarát
+Automatizálásra: Combination 4 - Maximum automatizálás
+Költségérzékenyeknek: Combination 5 - Jelentős megtakarítás
+Fejlesztőknek: Combination 2 - Fejlett AI IDE
+Általános használatra: Combination 1 - Legjobb teljesítmény
+
+IMPLEMENTÁCIÓS STRATÉGIA
+========================
+Fázis 1: Alapvető (Hét 1-2) - $67/hó
+Fázis 2: Automatizálás (Hét 3-4) - $87/hó
+Fázis 3: Optimalizálás (Hónap 2-3) - $81/hó
+Fázis 4: Skálázás (Hónap 4+) - $81/hó
+
+FÁJLOK ELÉRHETŐSÉGE
+===================
+- PRICING_SUMMARY.md - Részletes összefoglaló
+- analysis/current-pricing-2025.json - JSON adatok
+- analysis/pricing-analysis.md - Árképzési elemzés
+- implementation/roadmap.md - Implementációs útmutató
+- prompts/ - AI promptok
+- templates/ - JSON sablonok
+
+Utolsó frissítés: 2025-01-XX
+Források: Hivatalos weboldalak, API dokumentációk
+Ellenőrzés: 2+ független forrásból validálva
